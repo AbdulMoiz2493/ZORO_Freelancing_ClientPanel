@@ -1,4 +1,4 @@
-# Full Stack Application
+# ZORO Client Panel
 
 A full-stack web application built with **React** (frontend) and **Node.js/Express** with **MongoDB** (backend).
 
