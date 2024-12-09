@@ -4,7 +4,7 @@ import { MessageSquare, Send, X } from 'lucide-react';
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // Initialize Gemini AI
-const genAI = new GoogleGenerativeAI('AIzaSyBK93Plf3Nua8wvVUslCFs2Dd-kyGxDfBo');
+const genAI = new GoogleGenerativeAI(import.meta.env.VITE_APP_CHATBOT_API);
 
 const Chatbot = () => {
   const [isChatOpen, setIsChatOpen] = useState(false);
