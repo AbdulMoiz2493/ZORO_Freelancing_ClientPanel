@@ -161,6 +161,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 If you have any questions, feel free to reach out:
-- **Name**: Abdul Moiz
-- **Email**: [abdulmoiz8895@gmail.com](mailto:abdulmoiz8895@gmail.com)
+- **Abdul Moiz**  
+- Email: abdulmoiz8895@gmail.com 
+- GitHub: [AbdulMoiz2493](https://github.com/AbdulMoiz2493)
 ```
