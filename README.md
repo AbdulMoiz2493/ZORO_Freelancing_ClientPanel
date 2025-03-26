@@ -46,7 +46,7 @@ Ensure you have the following installed:
 
 #### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-repo-name.git](https://github.com/AbdulMoiz2493/ZORO_Freelancing_ClientPanel.git)
+git clone https://github.com/AbdulMoiz2493/ZORO_Freelancing_ClientPanel.git
 cd ZORO_Freelancing_ClientPanel
 ```
 
